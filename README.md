@@ -1,0 +1,45 @@
+# Gigaboard v1
+
+Welcome to **Gigaboard v1** — a fully chaotic, DIY, tenkeyless mechanical keyboard that I built basically for vibes.  
+Two PCBs, a bunch of parts, and me learning PCB design on the fly. RGB? ✅ Knob? ✅ Retro display? ✅
+
+Is it practical? Nah.  
+Is it fun? Absolutely.  
+
+
+---
+
+## What’s inside?
+
+- **Tenkeyless Layout** — Standard layout, compatible with Cherry MX-style switches (I used Kailh Box Crystal Jades — clicky bois)
+- **Per-Key RGB** — Reverse-mounted SK6812 (Neopixel) LEDs for maximum gamer energy
+- **16x2 Character Display** — Retro LCD, mainly for flex (TBD on actual use)
+- **Knob (Rotary Encoder)** — Twist it to feel something
+- **Powered by Raspberry Pi Pico** — Because it’s small, cheap, and CircuitPython just works
+- **Two Custom PCBs** — Designed in KiCad, manufactured properly, because perfboards are cringe
+- **Aesthetic Screws & Standoffs** — To hold the chaos together
+
+---
+
+
+## Bill of Materials (BoM)
+
+| Qty  | Part                                   | Cost (USD)     | Why it’s here                          |
+| ---- | -------------------------------------- | -------------- | -------------------------------------- |
+| 1    | Raspberry Pi Pico                      | $5             | Brains of the build                    |
+| 87   | Kailh Box Crystal Jade Switches        | ~$55           | The thock, the click                   |
+| 87   | SK6812 Reverse-Mount LEDs              | ~$20           | RGB everywhere                         |
+| 1    | 16x2 Character LCD (HD44780)           | $4             | Retro display vibes                    |
+| 1    | Rotary Encoder + Knob                  | $2             | For spinning, obviously                |
+| 1    | USB Type-C Breakout/Adapter            | $2             | So it actually connects                 |
+| 1    | USB Type-C Angled Adapter (90°)        | $3             | Makes cable management slightly better |
+| ~100 | Diodes (1N4148 or similar)             | $6             | Keyboard matrix wizardry                |
+| 2    | Custom PCBs (both plates)              | ~$25           | This is the real deal                   |
+| ~12  | M2 Screws + Standoffs                  | ~$3            | Holding the thing together              |
+| ~    | Connectors, headers, JSTs, vibes       | ~$5            | Wiring party                            |
+
+**💸 Approx. Total → $125 - $130** 
+
+---
+
+
