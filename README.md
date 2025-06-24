@@ -41,5 +41,14 @@ Is it fun? Absolutely.
 **💸 Approx. Total → $125 - $130** 
 
 ---
+## pictures
+
+![1](https://github.com/user-attachments/assets/2a8118d6-b1f2-4a06-b1c4-ce0c71277987)
+
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/ea202d03-6d77-4707-85eb-e1364563d882" />
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/069a9082-5f79-41d8-984e-6ad1d225c5d8" />
+
+
+
 
 
