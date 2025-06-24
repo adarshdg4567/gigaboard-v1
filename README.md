@@ -11,13 +11,13 @@ Is it fun? Absolutely.
 
 ## What’s inside?
 
-- **Tenkeyless Layout** — Standard layout, compatible with Cherry MX-style switches (I used Kailh Box Crystal Jades — clicky bois)
-- **Per-Key RGB** — Reverse-mounted SK6812 (Neopixel) LEDs for maximum gamer energy
-- **16x2 Character Display** — Retro LCD, mainly for flex (TBD on actual use)
-- **Knob (Rotary Encoder)** — Twist it to feel something
-- **Powered by Raspberry Pi Pico** — Because it’s small, cheap, and CircuitPython just works
-- **Two Custom PCBs** — Designed in KiCad, manufactured properly, because perfboards are cringe
-- **Aesthetic Screws & Standoffs** — To hold the chaos together
+- **Tenkeyless Layout**, Standard layout, compatible with Cherry MX-style switches (I used Kailh Box Crystal Jades — clicky bois)
+- **Per-Key RGB**, Reverse mounted SK6812 (Neopixel) LEDs for maximum gamer energy
+- **16x2 Character Display**, Retro LCD, mainly for flex (TBD on actual use)
+- **Knob (Rotary Encoder)**, Twist it to feel something
+- **Powered by Raspberry Pi Pico**, Because it’s small, cheap, and CircuitPython just works
+- **Two Custom PCBs**, Designed in KiCad, manufactured properly, because perfboards are cringe
+- **Aesthetic Screws & Standoffs**, To hold the chaos together
 
 ---
 
