@@ -1,8 +1,9 @@
 # GigaBoard v1 — Chaos Log
 
-yo. this is the official journal of mistakes, accidental wins, and ctrl-z moments for building my first custom keyboard  
-called it **GigaBoard v1** because it sounds powerful even though i’m winging 90% of it
+total number of hours spent: 8 hours
 
+yo. this is the official journal of mistakes, accidental wins, and ctrl-z moments for building my first custom keyboard  
+called it **GigaBoard v1** because it sounds powerful.
 —
 
 **June 19**  
