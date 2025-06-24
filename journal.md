@@ -46,7 +46,6 @@ spent 1 hour searching for keycaps that won’t make me broke
 ended up window shopping artisan keycaps i’ll never buy  
 also thinking of adding per-key RGB. am i ready? no. am i gonna try anyway? absolutely.
 
-—
 
 **TOTAL HOURS SPENT SO FAR:**  
 around 7.5 to 8 hours of chaos, mistakes, learning, and vibes  
