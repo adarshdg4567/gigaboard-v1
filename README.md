@@ -1,7 +1,7 @@
 # Gigaboard v1
 
-Welcome to **Gigaboard v1** — a fully chaotic, DIY, tenkeyless mechanical keyboard that I built basically for vibes.  
-Two PCBs, a bunch of parts, and me learning PCB design on the fly. RGB? ✅ Knob? ✅ Retro display? ✅
+Welcome to **Gigaboard v1** a fully chaotic, DIY, tenkeyless mechanical keyboard that I built basically for vibes.  
+Two PCBs, a bunch of parts, and me learning PCB design on the fly.
 
 Is it practical? Nah.  
 Is it fun? Absolutely.  
