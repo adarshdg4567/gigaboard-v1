@@ -1,4 +1,4 @@
-# GigaBoard v1 — Chaos Log
+# GigaBoard v1 Chaos Log
 
 total number of hours spent: 8 hours
 
