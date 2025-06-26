@@ -42,6 +42,8 @@ Is it fun? Absolutely.
 
 ---
 ## pictures
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/f90a867a-6a31-45fc-bc3e-e6793ed10147" />
+
 
 <img width="685" alt="image" src="https://github.com/user-attachments/assets/d35284a9-6cee-4315-a253-ccda696a8468" />
 
