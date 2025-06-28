@@ -42,7 +42,7 @@ Is it fun? Absolutely.
 
 ---
 ## pictures
-<img width="823" alt="image" src="https://github.com/user-attachments/assets/8254318d-3d08-4abe-bdc1-7231c32993b1" />
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/8254318d-3d08-4abe-bdc1-7231c32993b1" />
 
 
 
