@@ -14,6 +14,10 @@ me? i want a thicc board. full send. named it **GigaBoard v1** because it sounds
 opened KiCad. stared at the screen for 10 minutes like it had insulted my family.  
 finally made a rectangle. celebrated like i just discovered electricity.  
 progress is progress, even if it’s one rectangle.
+made the schematic
+
+![image](https://github.com/user-attachments/assets/c0b2a086-d88d-46cd-acbf-96c8ab8a776e)
+
 
 Time Spent: 1 Hour
 
