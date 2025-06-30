@@ -42,6 +42,10 @@ Is it fun? Absolutely.
 
 ---
 ## pictures
+![image](https://github.com/user-attachments/assets/852e71af-39bc-410f-bdc5-9f1c13e65283)
+![image](https://github.com/user-attachments/assets/63cd468f-d907-4591-b3ea-31c0b2e7e843)
+
+
 ![image](https://github.com/user-attachments/assets/02100cb3-e92d-4af0-910a-45d529a7b255)
 
 
