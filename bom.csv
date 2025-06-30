@@ -1,0 +1,14 @@
+Qty,Part,Cost (USD),why its here
+1,Raspberry Pi Pico,$5,Brains of the build
+87,Kailh Box Crystal Jade Switches,~$55,"The thock, the click"
+87,SK6812 Reverse-Mount LEDs,~$20,RGB everywhere
+1,16x2 Character LCD (HD44780),$4,Retro display vibes
+1,Rotary Encoder + Knob,$2,"For spinning, obviously"
+1,USB Type-C Breakout/Adapter,$2,So it actually connects
+1,USB Type-C Angled Adapter (90°),$3,Makes cable management slightly better
+~100,Diodes (1N4148 or similar),$6,Keyboard matrix wizardry
+2,Custom PCBs (both plates),~$25,This is the real deal
+~12,M2 Screws + Standoffs,~$3,Holding the thing together
+~,"Connectors, headers, JSTs, vibes",~$5,Wiring party
+,,,
+,total: 125-130 USD,,
