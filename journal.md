@@ -116,7 +116,7 @@ also added a fake flex grill just to feel something
 lesson learned: don’t freestyle case design without double-checking PCB dimensions
 
 Time Spent: 1.5 Hours
-![image](https://github.com/user-attachments/assets/840abc90-86a5-435d-8ce0-6e906c8c3b75)
+![image](https://github.com/user-attachments/assets/36e58c37-20c4-490e-bdf1-655fce8fe58d)
 
 ---
 
