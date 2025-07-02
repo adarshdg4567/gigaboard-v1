@@ -43,11 +43,11 @@ Is it fun? Absolutely.
 ---
 ## pictures
 ![image](https://github.com/user-attachments/assets/1aeb589a-09a3-4abb-a107-ba845d270cef)
-![image](https://github.com/user-attachments/assets/35d5b159-db58-42f1-8924-32159b601d61)
 
 
-![image](https://github.com/user-attachments/assets/852e71af-39bc-410f-bdc5-9f1c13e65283)
-![image](https://github.com/user-attachments/assets/eacc1451-2fe9-402b-95d7-ef1eb2a0ecf4)
+![image](https://github.com/user-attachments/assets/97cb7f00-0538-4fb0-bc97-9a25fc1f410f)
+
+
 
 
 ![image](https://github.com/user-attachments/assets/6e02b7aa-336c-4d96-8f98-2a331e7a160a)
