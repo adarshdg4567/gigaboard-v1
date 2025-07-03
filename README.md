@@ -44,8 +44,8 @@ Is it fun? Absolutely.
 ## pictures
 ![image](https://github.com/user-attachments/assets/1aeb589a-09a3-4abb-a107-ba845d270cef)
 
+![image](https://github.com/user-attachments/assets/54da11da-dde8-4f0c-b207-627e490f837a)
 
-![image](https://github.com/user-attachments/assets/97cb7f00-0538-4fb0-bc97-9a25fc1f410f)
 
 
 
@@ -63,8 +63,8 @@ Is it fun? Absolutely.
 
 ![1](https://github.com/user-attachments/assets/2a8118d6-b1f2-4a06-b1c4-ce0c71277987)
 
-<img width="701" alt="image" src="https://github.com/user-attachments/assets/ea202d03-6d77-4707-85eb-e1364563d882" />
-<img width="718" alt="image" src="https://github.com/user-attachments/assets/069a9082-5f79-41d8-984e-6ad1d225c5d8" />
+<img width="1201" alt="image" src="https://github.com/user-attachments/assets/ea202d03-6d77-4707-85eb-e1364563d882" />
+<img width="1201" alt="image" src="https://github.com/user-attachments/assets/069a9082-5f79-41d8-984e-6ad1d225c5d8" />
 
 
 
