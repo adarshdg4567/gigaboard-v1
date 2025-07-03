@@ -125,7 +125,7 @@ Time Spent: 1.5 Hours
 spent 3 hours playing tetris with standoffs.  
 moved one standoff 0.1mm and somehow the whole shell exploded.  
 spent 30 minutes yelling at the Fusion timeline and 2 hours fixing sketch constraints that *i definitely did not break*.  
-tried adding side vents—looked like cheese grater holes so i gave up.  
+tried adding side vents looked like cheese grater holes so i gave up.  
 realized halfway in that i still hadn’t added clearance for keycaps.  
 also tried “filleting for vibes” which made everything worse.  
 progress? questionable. stress? yes.
@@ -139,7 +139,7 @@ Time Spent: 3 Hours
 finally sat down and measured keycap + switch + plate stack height like a responsible human being.  
 redesigned the top shell *again* to stop it from bullying the switches.  
 added the space bar key properly (centered it this time 💀), and made sure it didn’t point to Narnia.  
-got brave and tried snapping the case together in the render—*it actually fit*.  
+got brave and tried snapping the case together in the render *it actually fit*.  
 the standoffs and holes now line up , and i didn’t break the timeline this time.  
 might even add labels to sketches like a real CAD adult.  
 3 hours in, confidence restored... for now.
