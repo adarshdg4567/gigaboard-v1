@@ -4,7 +4,7 @@ author: "adarshdg"
 description: "my first ever custom keyboard, where i learned things the chaotic way"
 created_at: "2025-06-19"
 ---
-Total Time Spent So Far: 11 Hours
+Total Time Spent So Far: 17 Hours
 
 ## **6/19/2025 Log 1: deciding to build a keyboard because why not**
 
@@ -103,9 +103,6 @@ case now looks like it’s meant to survive an earthquake
 Time Spent: 0.5 Hour
 ![image](https://github.com/user-attachments/assets/b184f283-79a5-402b-99ef-af96134099c2)
 
-
-
-
 ---
 
 ## **6/29/2025 Log 8: case redesign chaos (i got roasted)**
@@ -124,19 +121,36 @@ Time Spent: 1.5 Hours
 
 ---
 
-## **status update: it's real, but not real yet**
+### 7/1/2025 Log 9: precision? never heard of her  
+spent 3 hours playing tetris with standoffs.  
+moved one standoff 0.1mm and somehow the whole shell exploded.  
+spent 30 minutes yelling at the Fusion timeline and 2 hours fixing sketch constraints that *i definitely did not break*.  
+tried adding side vents—looked like cheese grater holes so i gave up.  
+realized halfway in that i still hadn’t added clearance for keycaps.  
+also tried “filleting for vibes” which made everything worse.  
+progress? questionable. stress? yes.
 
-firmware? done.  
-case? redesigned.  
-PCB? a vibe.  
-switches? still not soldered.  
-but this project now has *momentum*.  
-every log entry is a reminder that chaos = progress.  
-**GigaBoard v1** is gonna exist. maybe not soon, but definitely eventually.  
-and when it does, it’s gonna go hard.
+Time Spent: 3 Hours
+![image](https://github.com/user-attachments/assets/c8b0002a-19e2-4f76-bf48-85815481593e)
+
+---
+
+### 7/2/2025 Log 10: clearance redemption arc  
+finally sat down and measured keycap + switch + plate stack height like a responsible human being.  
+redesigned the top shell *again* to stop it from bullying the switches.  
+added the space bar key properly (centered it this time 💀), and made sure it didn’t point to Narnia.  
+got brave and tried snapping the case together in the render—*it actually fit*.  
+the standoffs and holes now line up , and i didn’t break the timeline this time.  
+might even add labels to sketches like a real CAD adult.  
+3 hours in, confidence restored... for now.
+
+Time Spent: 3 Hours
+![image](https://github.com/user-attachments/assets/8e1876b1-ae29-475f-bd37-a0fab427519c)
+![image](https://github.com/user-attachments/assets/6d0dd3d1-ef71-4c1a-80bf-582e8bb913b2)
 
 
+---
 
-**total time spent: 11 hours**  
+**total time spent: 17 hours**  
 next chapter: ordering PCBs, actual assembly, maybe setting something on fire by accident  
 we keep building.
